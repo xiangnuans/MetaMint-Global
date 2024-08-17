@@ -1,6 +1,4 @@
-以下是为 **MetaMint Global** 准备的高端大气的中英文产品简介，适合放置在 GitHub 的 README 文件中：
 
----
 
 # MetaMint Global: The Future of NFT Deployment  
 **MetaMint Global** 是领先的全球化一键发布 NFT 平台，旨在通过多链网络轻松部署、管理和交易 NFT。我们的平台为用户提供了强大的工具，使创作者和收藏者能够在去中心化的数字资产世界中获得无与伦比的体验。
@@ -35,7 +33,9 @@ MetaMint Global 不仅仅是一个 NFT 铸造平台，更是一个为下一代�
 
 
 
-
+<br>
+<br>
+<br>
 
 Elevate your NFT journey with **MetaMint Global**—the premier platform for NFT minting, management, and trading. Join the future of decentralized digital ownership today.  
 通过 **MetaMint Global**，提升您的 NFT 之旅——首屈一指的 NFT 铸造、管理和交易平台，加入去中心化数字资产的未来！
