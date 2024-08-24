@@ -42,5 +42,5 @@ Elevate your NFT journey with **MetaMint Global**—the premier platform for NFT
 
 
 ## 支持的链
-【】Ton链
-【】Vara链
+- Ton链
+- Vara链
