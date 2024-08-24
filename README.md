@@ -40,3 +40,7 @@ MetaMint Global 不仅仅是一个 NFT 铸造平台，更是一个为下一代�
 Elevate your NFT journey with **MetaMint Global**—the premier platform for NFT minting, management, and trading. Join the future of decentralized digital ownership today.  
 通过 **MetaMint Global**，提升您的 NFT 之旅——首屈一指的 NFT 铸造、管理和交易平台，加入去中心化数字资产的未来！
 
+
+## 支持的链
+【】Ton链
+【】Vara链
